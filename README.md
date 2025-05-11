@@ -143,4 +143,8 @@ OK!
 - Make lower_bound and upper_bound configurable as inputs
 - Convert to private range check (prove without revealing x)
 - Use custom comparators for non-fixed bounds
+## 🤝 Acknowledgements
+
+- [iden3](https://iden3.io) for Circom and SnarkJS.  
+- Rust ↔ Circom inspiration drawn from the simplicity of ZKP logic in both languages.
 
