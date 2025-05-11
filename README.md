@@ -22,7 +22,7 @@ These kinds of constraints are building blocks in real-world ZK systems, especia
 ### 🔁 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Range_Check_Circuit_in_Circom.git
+git clone https://github.com/cypriansakwa/Range_Check_Circuit_in_Circom.git
 cd Range_Check_Circuit_in_Circom
 ```
 ## ⚙️ Install Dependencies
