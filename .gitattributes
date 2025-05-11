@@ -1,0 +1,2 @@
+*.circom linguist-language=Circom
+*.js linguist-generated=true
