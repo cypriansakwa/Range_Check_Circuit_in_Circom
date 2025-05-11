@@ -17,7 +17,27 @@ This kind of range constraint is fundamental in many ZK applications such as:
 These kinds of constraints are building blocks in real-world ZK systems, especially in **privacy-preserving identity, finance, and compliance protocols**.
 
 ---
+## 📦 Installation
 
+### 🔁 Clone the Repository
+
+```bash
+git clone https://github.com/your-username/Range_Check_Circuit_in_Circom.git
+cd Range_Check_Circuit_in_Circom
+```
+## ⚙️ Install Dependencies
+
+Make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/)
+- [Circom](https://docs.circom.io/getting-started/installation/)
+- [SnarkJS](https://github.com/iden3/snarkjs)
+
+To install SnarkJS globally:
+
+```bash
+npm install -g snarkjs
+```
 ## 📦 Project Structure
 ```text
 Range_Check_Circuit_in_Circom/
